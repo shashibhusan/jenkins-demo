@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JenkinsDemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("===============test================");
+		System.out.println("============11===test================");
 		SpringApplication.run(JenkinsDemoApplication.class, args);
 	}
 
