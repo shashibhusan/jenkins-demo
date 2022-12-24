@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MainController {
 	
 	public String helloJenkins() {
-		return "This is jenkins tutorials===>>";
+		return "Adding extra logs";
 	}
 
 }
