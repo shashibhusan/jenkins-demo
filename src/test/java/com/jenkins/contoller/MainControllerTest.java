@@ -13,6 +13,7 @@ class MainControllerTest {
 
 	@Test
 	void test() {
+		System.out.println("This is test case");
 		assertEquals(true,true);
 	}
 
